@@ -1,7 +1,7 @@
 ### 🚀 Balanced Parentheses Checker
 I have added balance_parentheses.cpp to demonstrate a practical application of the Linked List-based Stack.
 
-📝 Problem Description
+### 📝 Problem Description
 The goal is to determine if a string of brackets—( ), [ ], and { }—is mathematically "balanced." A string is balanced if:
 
 Every opening bracket has a corresponding closing bracket of the same type.
